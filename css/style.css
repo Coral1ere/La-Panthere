@@ -704,6 +704,9 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.keywords {
+    color:#F3976C;
+}
 
 h2 {
     font-size: 22px;
